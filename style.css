@@ -1,3 +1,20 @@
+/* Botão de Voltar */
+.back-button {
+    background-color: #fff;
+    color: #7E32D6;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.back-button:hover {
+    background-color: #f0f0f0;
+}
+
 /* Estilo global */
 body {
     font-family: 'Montserrat', sans-serif;
